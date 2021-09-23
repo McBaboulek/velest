@@ -55,3 +55,18 @@ https://fdsnws.geophysik.ruhr-uni-bochum.de/fdsnws/event/1/query?starttime=
 =51.7&minlongitude=7.0&maxlongitude=7.8&mindepth=0.0&maxdepth=300.0&minmagnitude=1.0&maxmagnitude=
 4.0&magnitudetype=M&includeallorigins=true&includeallmagnitudes=true&includearrivals=
 true&includepicks=false&limit=10
+
+# Velocity Model M1g (Crust 2.0, extended crust, 3 km seds.)
+# Model starts at z=-1
+LAYER     -1.0  3.0 0.40    1.73 0.29    2.7 0.0
+#LAYER     0.0  4.4 -1.90   2.5 -1.30    2.50 0.00
+#LAYER     1.0  2.5 1.90    1.2  1.30    2.10 0.00
+#LAYER     2.0  4.4 0.85    2.5  0.50    2.50 0.00
+#LAYER     4.0  6.1 0.00    3.5  0.00    2.75 0.00
+#LAYER    10.0  6.3 0.00    3.75 0.00    2.7 0.0
+#LAYER    25.0  8.0 0.00    4.76 0.00    2.7 0.0
+#LAYER    12.0  6.3 0.00    3.6  0.00    2.80 0.00
+#LAYER    18.0  7.0 0.00    4.17 0.00    2.7 0.0
+#LAYER    22.0  6.6 0.00    3.6  0.00    2.90 0.00
+#LAYER    25.0  8.0 0.00    4.76 0.00    2.7 0.0
+#LAYER    32.0  8.0 0.00    4.6  0.00    3.30 0.00
