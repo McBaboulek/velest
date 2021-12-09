@@ -50,7 +50,7 @@
  4.60       25.0    1.00
  4.60       32.0    1.00
 
-Ham1D-modell_new (mod1.1 EK280993)   Ref. station HM03      
+ Ham1D-modell_new (mod1.1 EK280993)   Ref. station HM03      
  06        vel,depth,vdamp,phase (f5.2,5x,f7.2,2x,f7.3,3x,a1)
  4.40        0.0    1.00              P-VELOCITY MODEL
  4.40        2.0    1.00
