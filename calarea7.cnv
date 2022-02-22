@@ -1,663 +1,384 @@
-210905  1010 18.46 51.4283N   6.6943E    1.0    1.8      1   0.0 0.00  1.0  1.0
-ZERLS0   8.54ZER1S0  26.80BULIS0  32.17HESS0   26.28BUGS0   32.17KASTS0   57.80
-KASTS0  42.27BKLBS0  32.38BTEZS0  33.42ENTS0   44.58DOR50S0 42.41LUN43S0  47.37
-LUN43S0 52.54WER38S0 47.48BGK41S0 50.06KAM35S0 45.41BGK20S0 44.89HAM16S0  48.51
-
-
-210910  1402 15.10 51.6343N   7.7361E    1.6    1.3      1   0.0 0.00  1.0  1.0
-HAM16P0  0.55HAM03P0  0.56HAM12P0  0.46HMESP0  0.90HAM13P0  0.78BKG08P0  1.41
-WER17P0  1.93KAM35P0  2.25BGK41P0  2.39WER38P0 2.89DOR50P0  3.44BUGP0    7.30
-BKLBP0   7.29BPFIP0   7.85ENTP0    9.02KASTP0  12.92
-
-210910  1402 15.10 51.6343N   7.7361E    1.6    1.3      1   0.0 0.00  1.0  1.0
-HAM16S0  0.96HAMS03  1.01HMESS0  1.59HAM13S0  1.39WER17S0  3.52KAM46S0  5.12
-BGK41P0  5.65WER38P0 5.32SORS0   11.54BUGS0   13.37BPFIP0  14.54KASTP0  21.04
-
-210912  2057 39.61 51.6148N   7.6066E    1.27   1.8      1   0.0 0.00  1.0  1.0
-BGK18P0 15.24BGK41P0 14.95KAM35P0 14.76LUN43P0 14.77BKG08P0 14.49WER38P0 14.11
-KAM35P0 14.04HAM16P0 13.43DOR50P0 13.35WER38P0 12.28WER17P0 12.01
-
-210912  2057 55.66 51.6090N   7.6316E    2.6    1.35     1   0.0 0.00  1.0  1.0
-BGK41P0 26.95BGK20P0 26.81KAM35P0 26.76LUN43P0 26.75BGK08P0 26.49WER38P0 26.11
-KAM35P0 26.04WER17P0 25.67HAM12P0 25.58HAM03P0 25.53HAM16P0 25.43HMESP0  25.41 
-DOR50P0 25.35WER38P0 24.28WER17P0 24.01
-
-
-210324  1703 32.29 51.6585N   7.7471E    2.0    1.6     1   0.0 0.00  1.0  1.0
-HAM11P0 1.02HAM14P0  1.04WER17P0 1.94BGK20P0 2.3DOR50P0 4.34SORP0  7.45BULIP0 8.65  
-HESP0   10.80HAM02P0 0.62HMESP0 0.68HAM12P0  0.74HAM03P0 0.78HAM13P0 1.00
-WER15P0  1.30HAM29P0 1.54BGK10P0 2.52KASTP0  13.44
-
-210324  1703 32.29 51.6585N   7.7471E    2.0    1.6     1   0.0 0.00  1.0  1.0
-HMESS0  1.25HAM02S0  1.22HAM11S0 1.86HAM13S0 1.8HAM16S0 2.02HAM29S0  2.61
-WER17S0 3.43BGK18S0  4.41SORS0  12.72BULIS0  14.65BUGS0  13.96ENTS0  16.39 
-KASTS0  22.50
-
-
-
-210521  1934 14.38 51.6382N   7.7313E    1.38   1.38     1   0.0 0.00  1.0  1.0
-HAM03P0 1.92HAM02P0 1.80HAM16P0 1.87HAM13P0 1.84HMESP0  1.78HAM05P0 1.75
-HAM07P0 1.66HAM12P0 1.02HAM06P0 0.80HAM11P0 1.25HAM14P0 1.25BGK10P0 0.95
-WER15P0 0.25BGK08P0 0.24KAM04P0 0.19HAM29P0 1.17BGK20S0
-
-210521  1934 14.38 51.6382N   7.7313E    1.38   1.38     1   0.0 0.00  1.0  1.0
-HAM03S0 1.72HAM02S0 1.47HAM16S0 1.55HAM13S0 1.36HMESS0  1.30HAM05S0 1.73
-HAM07S0 1.02HAM11S0 1.37HAM14S0 1.33HAM29S0 1.11BGK18S0     SORSg0   0.00
-BULIS0      BPFISg0      ENTSg0
-
-
-840425  640  4.49 37.1597N 121.5423W    8.56   0.00     75  0.0 0.05  1.0  1.0
-HSPMP0  1.51CADMP0  1.93HGSMP0  1.99JCBMP0  2.61HCAMP2  2.76HGWMP0  3.29
-CAOMP0  3.74HCRMP1  3.84JSTMP0  3.92HFEMP1  3.84CSCMP1  4.83HPLMP0  4.18
-JALMP0  4.61CMPMP3  5.20BSRMP2  9.25 
-https://fdsnws.geophysik.ruhr-uni-bochum.de/fdsnws/event/1/query?starttime=
-2021-01-01T00%3A00%3A00&endtime=2021-09-16T00%3A00%3A00&minlatitude=51.4&maxlatitude
-=51.7&minlongitude=7.0&maxlongitude=7.8&mindepth=0.0&maxdepth=300.0&minmagnitude=1.0&maxmagnitude=
-4.0&magnitudetype=M&includeallorigins=true&includeallmagnitudes=true&includearrivals=
-true&includepicks=false&limit=10
-
-# Velocity Model M1g (Crust 2.0, extended crust, 3 km seds.)
-# Model starts at z=-1
-LAYER     -1.0  3.0 0.40    1.73 0.29    2.7 0.0
-#LAYER     0.0  4.4 -1.90   2.5 -1.30    2.50 0.00
-#LAYER     1.0  2.5 1.90    1.2  1.30    2.10 0.00
-#LAYER     2.0  4.4 0.85    2.5  0.50    2.50 0.00
-#LAYER     4.0  6.1 0.00    3.5  0.00    2.75 0.00
-#LAYER    10.0  6.3 0.00    3.75 0.00    2.7 0.0
-#LAYER    25.0  8.0 0.00    4.76 0.00    2.7 0.0
-#LAYER    12.0  6.3 0.00    3.6  0.00    2.80 0.00
-#LAYER    18.0  7.0 0.00    4.17 0.00    2.7 0.0
-#LAYER    22.0  6.6 0.00    3.6  0.00    2.90 0.00
-#LAYER    25.0  8.0 0.00    4.76 0.00    2.7 0.0
-#LAYER    32.0  8.0 0.00    4.6  0.00    3.30 0.00
-
-# =============================================================================
-#  Sample NonLinLoc programs control file
-#
-#  NonLinLoc Version 6.0> - MAy2021
-#
-#  Anthony Lomax <anthony@alomax.net>
-#
-#  See "Control File" and "Running the Sample Location" pages
-#     in the NonLicLoc on-line documentation:
-#     http://www.alomax.net/nlloc
-# =============================================================================
-
-# =============================================================================
-# Generic control file statements
-# =============================================================================
-#
-
-# control (CONTROL message_flag (0:silent,1:few messages,2:verbose,...),
-#		RandomNumSeed)
-CONTROL 1 54321
-
-# -----------------------------------------------------------------------------
-# lat/long to rect grid transformation
-# -----------------------------------------------------------------------------
-# map projection / transformation
-# (TRANS type <params>)
-#    (char[])   search_type (SIMPLE, LAMBERT)
-#    <params>:
-#	SIMPLE LatOrig  LongOrig  RotCW
-#	LAMBERT  RefEllipsoid LatOrig  LongOrig
-#                   FirstStdParal  SecondStdParal   RotCW
-#
-#    RefEllipsoid choices:
-#                   WGS-84, GRS-80, WGS-72, Australian, Krasovsky,
-#                   International, Hayford-1909, Clarke-1880, Clarke-1866,
-#                   Airy, Bessel, Hayford-180
-
-#TRANS  LAMBERT  Clarke-1880  61.0 -150.0  60.0 62.0  0.0
-
-TRANS SIMPLE  51.593900  07.730400  0.0
-
-# maplines (MAPLINE id_num, name, red, green, blue,
-#	linestyle (SOLID, DASHED, DOTTED, DASHDOT))
-#MAPLINE  GMT_LONLAT ./data_geog/alaska_rivers.xy  0.0 0.0 1.0  SOLID
-#MAPLINE  GMT_LONLAT ./data_geog/alaska.xy  0.0 0.0 0.0  SOLID
-
-# =============================================================================
-# END of Generic control file statements
-# =============================================================================
-
-# =============================================================================
-# Vel2Grid control file statements
-# =============================================================================
-
-# output filename root
-# (VGOUT <output file root>)
-# Layer 2DGrid
-
-VGOUT  ./model/layer
-
-# wave type
-# (VGTYPE wave_type (P, S))
-VGTYPE P
-VGTYPE S
-
-# grid description
-# (GRID  num_grid_x  num_grid_y  num_grid_z
-#	orig_grid_x  orig_grid_y  orig_grid_z
-#	d_grid_x d_grid_y d_grid_z
-#       type
-#    (float) num_grid_x/y/z : number of nodes along x/y/z axis
-#    (float)    orig_grid_x : x location of grid origin (0,0,0) in km pos east
-#    (float)    orig_grid_y : y location of grid origin (0,0,0) in km pos north
-#    (float)    orig_grid_z : z location of grid origin (0,0,0) in km pos down
-#    (float)   d_grid_x/y/x : grid spacing along  x/y/z axis
-#    (char[])  type : (VELOCITY = km/s, VELOCITY_METERS = m/s,
-#		SLOWNESS = s/km,
-#		VEL2 = vel**2,
-#		SLOW2 = slow**2, SLOW_2_METERS = slow**2 ((s/m)**2),
-#		SLOW_LEN = slow*d_grid)
-#
-#
-# Layer 2DGrid (NOTE: num_grid_x must be = 2 for 2D grids)
-#VGGRID  2 401 106  0.0 0.0 -5.0  1.0 1.0 1.0  SLOW_LEN # this grid is 400km in distance and from -5km to 100km in depth
-#VGGRID  2 501 44        0.0 0.0 -1.0            1.0 1.0 1.0             SLOW_LEN
-
-VGGRID  2 301 44  0.0 0.0 -3.0  1.0 1.0 1.0  SLOW_LEN
-
-# -----------------------------------------------------------------------------
-# velocity model description
-# -----------------------------------------------------------------------------
-
-# Vinitimiglia layer model 2 - P/S ratio of 1.68 used
-# model layers (LAYER depth, Vp_top, Vp_grad, Vs_top, Vs_grad, p_top, p_grad)
-
-# ham - Combination of Ibb 2layers with M1g
-#LAYER  -1.0 3.0 0.40 1.73 0.29 2.7 0.0
-#LAYER   4.0 5.0 0.00 2.89 0.00 2.7 0.0
-#LAYER  12.0 6.3 0.00 3.60 0.00 2.8 0.0
-#LAYER  22.0 6.6 0.00 3.60 0.00 2.9 0.0
-#LAYER  32.0 8.0 0.00 4.60 0.00 3.3 0.0
-
-# =============================================================================
-# END of Vel2Grid control file statements
-# =============================================================================
-
-# =============================================================================
-# Grid2Time control file statements
-# =============================================================================
-#
-#
-# input, output filename root
-# (GTFILES <input file root> <output file root> wave_type (P, S))
-#
-GTFILES  ./model/layer  ./time/layer P	  # uncomment to generate P travel times
-GTFILES  ./model/layer  ./time/layer S	 # uncomment to generate S travel times
-
-# time grid modes
-# (GTMODE grid_mode, angle_mode)
-#    (char[])   grid_mode (GRID3D, GRID2D)
-#    (char[])   angle_mode (ANGLES_YES, ANGLES_NO)
-#
-GTMODE GRID2D ANGLES_YES
-
-# source description (multiple sources can be specified)
-# (GTSRCE  label  x_srce  y_srce   z_srce   elev)#### velest
-
-GTSRCE  APE  LATLON  37.07274  25.52301  0  0
-GTSRCE  AHRW LATLON  50.54100  7.07600    0 0
-GTSRCE  BA16 LATLON  51.03010  6.66160    0 0
-GTSRCE  BA17 LATLON  51.25160  6.36570    0 0
-GTSRCE  BAVS LATLON  51.69980  7.13310    0 0
-GTSRCE  BAVN LATLON  51.73800  7.12200    0 0
-GTSRCE  BD09 LATLON  51.09630  6.46500    0 0
-GTSRCE  BD10 LATLON  51.05480  6.45720    0 0
-GTSRCE  BD11 LATLON  51.08230  6.43020    0 0
-GTSRCE  BD13 LATLON  51.04870  6.43390    0 0
-GTSRCE  BULI LATLON  51.45430  7.26020    0 0
-GTSRCE  BPFI LATLON  51.41850  7.22760    0 0
-GTSRCE  BUG0 LATLON  51.44060  7.26920    0 0
-GTSRCE  BK08 LATLON  51.60800  7.67540    0 0
-GTSRCE  BK09 LATLON  51.60010  7.62270    0 0
-GTSRCE  BK10 LATLON  51.63970  7.66110    0 0
-GTSRCE  BK18 LATLON  51.61540  7.62260    0 0
-GTSRCE  BK20 LATLON  51.60770  7.65180    0 0
-GTSRCE  BK31 LATLON  51.61100  7.59660    0 0
-GTSRCE  BK35 LATLON  51.61540  7.62260    0 0
-GTSRCE  BK41 LATLON  51.62980  7.59780    0 0
-GTSRCE  BK42 LATLON  51.61180  7.58790    0 0
-GTSRCE  BRH2 LATLON  51.51180  6.57290    0 0
-GTSRCE  BKLB LATLON  51.44010  7.26960    0 0
-GTSRCE  BOR0 LATLON  51.08230  6.43020    0 0
-GTSRCE  BTEZ LATLON  51.44900  7.27900    0 0
-GTSRCE  ENT0 LATLON  51.14480  7.24640    0 0
-GTSRCE  DR50 LATLON  51.52580  7.55380    0 0
-GTSRCE  HES0 LATLON  51.65770  7.72630    0 0
-GTSRCE  HM02 LATLON  51.64710  7.75140    0 0
-GTSRCE  HM03 LATLON  51.64360  7.73040    0 0
-GTSRCE  HM04 LATLON  51.59390  7.70440    0 0
-GTSRCE  HM05 LATLON  51.63020  7.70230    0 0
-GTSRCE  HM06 LATLON  51.65020  7.69510    0 0
-GTSRCE  HM07 LATLON  51.61870  7.71790    0 0
-GTSRCE  HM08 LATLON  51.60800  7.67540    0 0
-GTSRCE  HM09 LATLON  51.60010  7.62270    0 0
-GTSRCE  HM10 LATLON  51.63970  7.66110    0 0
-GTSRCE  HM11 LATLON  51.68310  7.76930    0 0
-GTSRCE  HM12 LATLON  51.66180  7.77070    0 0
-GTSRCE  HM13 LATLON  51.64520  7.71090    0 0
-GTSRCE  HM14 LATLON  51.68910  7.73480    0 0
-GTSRCE  HM15 LATLON  51.62760  7.74520    0 0
-GTSRCE  HM16 LATLON  51.67770  7.65120    0 0
-GTSRCE  HM17 LATLON  51.65970  7.82290    0 0
-GTSRCE  HM29 LATLON  51.65980  7.82300    0 0
-GTSRCE  IBBN LATLON  52.30710  7.75660    0 0
-GTSRCE  IBBE LATLON  52.29970  7.79430    0 0
-GTSRCE  IBBS LATLON  52.28420  7.74850    0 0
-GTSRCE  KM04 LATLON  51.59390  7.70440    0 0
-GTSRCE  KM35 LATLON  51.58440  7.62320    0 0
-GTSRCE  KM46 LATLON  51.56950  7.65510    0 0
-GTSRCE  KAM0 LATLON  51.59390  7.70440    0 0
-GTSRCE  KAST LATLON  51.20270  8.41620    0 0
-GTSRCE  LAUG LATLON  51.35100  6.94400    0 0
-GTSRCE  LN39 LATLON  51.60370  7.53880    0 0
-GTSRCE  LN43 LATLON  51.59760  7.57230    0 0
-GTSRCE  SOR0 LATLON  51.20980  7.58280    0 0
-GTSRCE  WR15 LATLON  51.68200  7.69360    0 0
-GTSRCE  WR17 LATLON  51.67770  7.65120    0 0
-GTSRCE  WR38 LATLON  51.65010  7.56530    0 0
-GTSRCE  ZERL LATLON  51.62070  6.86950    0 0
-GTSRCE  ZER1 LATLON  51.59470  6.82520    0 0
-GTSRCE  ZER3 LATLON  51.61270  6.83840    0 0
-
-#   (char[])   label
-#    (char[])   loc type (XYZ, LATLON (+/-dec deg), LATLONDM (deg, dec min))
-#  XYZ---------------      LATLON/LATLONDM--------
-#  x_srce : km pos E   or  lat   : pos N
-#  y_srce : km pos N   or  long  : pos E
-#  z_srce : km pos DN  or  depth : pos DN
-#       positions can be given in km (XYZ), dec_deg (LATLON),
-#               deg, dec_min (LATLONDM) or deg, min, dec_sec (LATLONDS)
-#INCLUDE ./conf/stations.conf
-#INCLUDE obs/station_coordinates.txt	
-
-# -----------------------------------------------------------------------------
-# Podvin & Lecomte FD params (Podvin and Lemcomte, 1991, GJI, 105, 271-284)
-# -----------------------------------------------------------------------------
-# PLFD  hs_eps_init  message_flag [required]
-#       hs_eps_init  : fraction (typically 1.0E-3) defining the toler-
-#                  ated model inhomogeneity for exact initialization.
-#                  A tolerance larger than 0.01 will potentially
-#                  create errors larger than those involved by the
-#                  F.D. scheme without any exact initialization.
-#       message_flag : Message flag (0:silent,1:few messages,2:verbose)
-#                  A negative value inhibits "clever" initialization.
-GT_PLFD  1.0e-3  0
-
-# =============================================================================
-# END of Grid2Time control file statements
-# =============================================================================
-
-# =============================================================================
-# Time2EQ control file statements
-# =============================================================================
-
-# -----------------------------------------------------------------------------
-# input  grid filenames root, output filename
-# -----------------------------------------------------------------------------
-# EQFILES <input file root> <output file> [required]
-#EQFILES ./time/ham1D ./obs/synth.obs
-
-EQFILES ./time/layer ./obs/synth.obs
-
-# -----------------------------------------------------------------------------
-# hypocenter parameters
-# -----------------------------------------------------------------------------
-# EQEVENT  label  x_event  y_event  z_event  otime [optional, repeatable]
-#       label   : unique name
-#       x_event : km pos east
-#       y_event : km pos north
-#       z_event : km pos down
-#       otime   : sec
-
- EQEVENT  EQ001   0.0 0.0 10.0 0.0
-# -----------------------------------------------------------------------------
-# station description (multiple stations can be specified)
-# -----------------------------------------------------------------------------
-# EQSTA  label phase  error_type error error_report_type error_report probActive [required, repeatable]
-EQSTA IBBN  P      GAU   0.1    GAU  0.1 1.0
-EQSTA IBBN  S      GAU   0.1    GAU  0.1 1.0
-EQSTA IBBE  P      GAU   0.1    GAU  0.1 1.0
-EQSTA IBBE  S      GAU   0.1    GAU  0.1 1.0
-EQSTA IBBS  P      GAU   0.1    GAU  0.1 1.0
-EQSTA IBBS  S      GAU   0.1    GAU  0.1 1.0
-EQSTA HM03  P      GAU   0.1    GAU  0.1 1.0
-EQSTA HM03  S      GAU   0.1    GAU  0.1 1.0
-EQSTA HM11  P      GAU   0.1    GAU  0.1 1.0
-EQSTA HM11  S      GAU   0.1    GAU  0.1 1.0
-EQSTA BULI  P      GAU   0.1    GAU  0.1 1.0
-EQSTA BULI  S      GAU   0.1    GAU  0.1 1.0
-EQSTA BUG0  P      GAU   0.1    GAU  0.1 1.0
-EQSTA BUG0  S      GAU   0.1    GAU  0.1 1.0
-EQSTA BK20  P      GAU   0.1    GAU  0.1 1.0
-EQSTA BK20  S      GAU   0.1    GAU  0.1 1.0
-EQSTA BK18  P      GAU   0.1    GAU  0.1 1.0
-EQSTA BK18  S      GAU   0.1    GAU  0.1 1.0
-EQSTA DR50  P      GAU   0.1    GAU  0.1 1.0
-EQSTA DR50  S      GAU   0.1    GAU  0.1 1.0
-EQSTA KM35  P      GAU   0.1    GAU  0.1 1.0
-EQSTA KM35  S      GAU   0.1    GAU  0.1 1.0
-EQSTA WR17  P      GAU   0.1    GAU  0.1 1.0
-EQSTA WR17  S      GAU   0.1    GAU  0.1 1.0
-EQSTA KAST  P      GAU   0.1    GAU  0.1 1.0
-EQSTA KAST  S      GAU   0.1    GAU  0.1 1.0
-EQSTA ZERL  P      GAU   0.1    GAU  0.1 1.0
-EQSTA ZERL  S      GAU   0.1    GAU  0.1 1.0
-# -----------------------------------------------------------------------------
-# source description (multiple sources can be specified)
-# -----------------------------------------------------------------------------
-# EQSRCE (see GTSRCE) [optional, repeatable]
-#
-EQSRCE  Hamm  LATLON   51.593900 7.730400 9.722238  0.0
-
-
-# -----------------------------------------------------------------------------
-# event mechanism description
-# -----------------------------------------------------------------------------
-# MECH  mech_type, strike, dip, rake [optional]
-#       mech_type (DOUBLE, ISO, NONE) 
-
-EQMECH  DOUBLE 0.0 90.0 0.0
-
-# -----------------------------------------------------------------------------
-# select mode sta->src or src->sta
-# -----------------------------------------------------------------------------
-# EQMODE str_mode [required]
-#       SRCE_TO_STA  calc time for single source to multiple stations
-#   STA_TO_SRCE  calc time for multiple sources to single station
-
-EQMODE SRCE_TO_STA
-
-# -----------------------------------------------------------------------------
-# quality to error mapping (for HYPO71, etc)
-# -----------------------------------------------------------------------------
-
-
-# EQQUAL2ERR Err0 Err1 Err2 ... [required]
-
-EQQUAL2ERR 0.1 0.2 0.4 0.8 99999.9
-
-# -----------------------------------------------------------------------------
-# Vp / Vs ratio (overrides any S travel-time grids)
-# -----------------------------------------------------------------------------
-# EQVPVS VpVs_ratio [optional]
-EQVPVS  1.73
-
-
-
-# EQQUAL2ERR - Quality to Error Mapping
-# required, non-repeatable
-# Syntax 1: EQQUAL2ERR Err0 ... ... ... ...
-# Specifies the mapping of error to phase pick quality for output of phase/observations in HYPO71 file format (which does not include time uncertainties) ( i.e. time uncertainties in seconds ( i.e. 0.01 or 0.5 ) to quality 0,1,2,3 or 4 ).
-#
-#    Err0 ... ErrN (float, min:0.0) one time uncertainty value for each quality level that may be output to the phase/observation file. Synthetic errors less than or equal to the first value Err0 are output with quality 0 , less than or equal to the second are output with 1 , etc.
-#
-EQQUAL2ERR 0.05 0.1 0.5 1.0 99999.9
-
-
-# =============================================================================
-# END of Time2EQ control file statements
-# =============================================================================
-# =============================================================================
-
-
-# =============================================================================
-# =============================================================================
-# NLLoc control file statements
-# =============================================================================
-
-# -----------------------------------------------------------------------------
-# signature
-# -----------------------------------------------------------------------------
-# LOCSIG signature [optional]
-LOCSIG Marc Baboulek - Ruhr-University Bochum
-
-
-# -----------------------------------------------------------------------------
-# comment
-# -----------------------------------------------------------------------------
-# LOCCOM comment [optional]
-
-LOCCOM Hamm event (NonLinLoc Localisation)
-
-# -----------------------------------------------------------------------------
-# input  grid filenames root, output filename
-# -----------------------------------------------------------------------------
-# LOCFILES <obs file> obs_type  <travel-time grid files path/root> <output file path/root>
-#       obs_type : NLLOC_OBS, HYPO71, HYPOELLIPSE, RENASS_DEP, SEISAN
-#LOCFILES ./YD/obs/ydnet.obs NLLOC_OBS  ./YD/time/layer  ./YD/output/ham1D
-LOCFILES ./obs/2018-11-30-mww70-southern-alaska.obs NLLOC_OBS  ./time/layer  ./loc/alaska
-
-# -----------------------------------------------------------------------------
-# output hypocenter file types
-# -----------------------------------------------------------------------------
-# LOCHYPOUT type1, type2, ... [optional]
-#       typeN (SAVE_NLLOC_ALL, SAVE_NLLOC_SUM, SAVE_HYPO71_ALL, 
-#               SAVE_HYPO71_SUM, SAVE_HYPOELL_ALL, SAVE_HYPOELL_SUM,
-#               SAVE_HYPOINV_SUM, SAVE_NLLOC_OCTREE)
-LOCHYPOUT SAVE_NLLOC_ALL  SAVE_HYPOINV_SUM
-
-# -----------------------------------------------------------------------------
-# search type
-# -----------------------------------------------------------------------------
-# LOCSEARCH search_type <params> [required]
-#       search_type (GRID, MET (Metropolis), SA (Simulated Annealing))
-#   <params> :
-#               GRID NumScatterSamples
-#               MET  NumSamples NumLearn NumEquil BeginSave NumSkip
-#            StepInit StepMin StepFact ProbMin
-#               OCT  init_num_cells_x, init_num_cells_y, init_num_cells_z,
-#                        min_node_size, max_num_nodes, num_scatter,
-#                        use_stations_density (1 = Weights oct-tree cell prob values used for subdivide$
-#                               in proportion to number of stations in oct-tree cell.
-#                               Gives higher search priority to cells containing stations,
-#                               stablises convergence to local events when global search used
-#                               with dense cluster of local stations.),
-#                        stop_on_min_node_size (1 = stop search when first min_node_size reached,
-#                               0 = stop subdividing a given cell when min_node_size reached.)
-LOCSEARCH GRID 500
-#LOCSEARCH  OCT 10 10 4 0.001 10000 15000 0 1
-#LOCSEARCH MET 10000 1000 4000 5000 5 -1 0.01 8.0 1.0e-10
-
-# -----------------------------------------------------------------------------
-# location method
-# -----------------------------------------------------------------------------
-# LOCMETH method [required]
-#       method (GAU_ANALYTIC, EDT, EDT_OT_WT)
-#       GAU_ANALYTIC : L2 norm following Tarantola and Valette (1982)
-#       EDT          : Equal Differential Time (see )
-#       EDT_OT_WT    : Weights EDT sum prob by variance of OT estimated over all pairs of readings.
-#                      Downweights locations with inconsistent OT estimates.
-#       maximum_dist_sta_to_grid (use very large value for no max)
-#       minimum_number_phases for location
-#       maximum_number_phases for location (-1 for no max)
-#       minimum_number_S_phases for location (-1 for no min)
-#       Vp/Vs ratio (< 0.0 to use S travel time grids)
-#   maximum_number_3D_grids to attempt to read into memory (-1 for no max)
-#       minimum_dist_sta_to_grid (-1 for no min)
-#       flag indicating if duplicate arrivals used for location (1=reject, 0=use if time diff < sigma /$
-#       duplicate arrivals have same station label and phase name
-#LOCMETH GAU_ANALYTIC 9999.0 4 -1 -1 1.73 6 -1.0 0
-#LOCMETH EDT_OT_WT 9999.0 3 -1 1 1.73 -1.0 -1.0 0
-LOCMETH EDT_OT_WT 9999.0 4 -1 -1 1.68 6 -1.0 1
-#LOCMETH EDT 9999.0 3 -1 1 1.73 -1.0 -1.0 0
-
-# -----------------------------------------------------------------------------
-# gaussian model error parameters
-# -----------------------------------------------------------------------------
-# LOCGAU Sigma_T (s), CorrLen (km) [required]
-#LOCGAU 0.2 0.5
-#LOCGAU 0.1 0.05
-LOCGAU 0.5 0.0
-
-# -----------------------------------------------------------------------------
-# travel-time dependent gaussian model error parameters
-# -----------------------------------------------------------------------------
-# LOCGAU2 SigmaTfraction,  SigmaTmin (s),  SigmaTmax (s) [optional]
-# travel time error is travel_time*SigmaTfraction, with max/min value = SigmaTmin/SigmaTmax
-#LOCGAU2 0.125 0.01 1.25
-LOCGAU2 0.02 0.05 2.0
-# -----------------------------------------------------------------------------
-# phase identifier mapping
-# -----------------------------------------------------------------------------
-# LOCPHASEID phase  phase_id0 phase_id1 ... [optional, repeatable]
-# examples for P and S
-#       LOCPHASEID  P   P p
-#       LOCPHASEID  S   S s
-#       LOCPHASEID  S   $ #ToIgnoreS
-LOCPHASEID  P   P p G PN Pn PG Pg
-LOCPHASEID  S   S s G SN Sn SG Sg
-
-# -----------------------------------------------------------------------------
-# quality to error mapping (for HYPO71, etc)
-# -----------------------------------------------------------------------------
-# LOCQUAL2ERR Err0 Err1 Err2 ... [required or optional]
-#
-# the following quality mapping is default from Hypoellipse documentation
-LOCQUAL2ERR 0.1 0.5 1.0 2.0 99999.9
-
-# -----------------------------------------------------------------------------
-# location search grid description
-# -----------------------------------------------------------------------------
-# LOCGRID  num_grid_x  num_grid_y  num_grid_z
-#       orig_grid_x  orig_grid_y  orig_grid_z
-#       d_grid_x d_grid_y d_grid_z
-#   type save_flag [required, repeatable]
-#
-#       num_grid_x/y/z : number of nodes along x/y/z axis
-#       orig_grid_x : x location of grid origin (0,0,0) in km pos east
-#       orig_grid_y : y location of grid origin (0,0,0) in km pos north
-#       orig_grid_z : z location of grid origin (0,0,0) in km pos down
-#       d_grid_x/y/x : grid spacing along  x/y/z axis
-#       type : (PROB_DENSITY, MISFIT)
-#       save_flag : (SAVE, NO_SAVE)
-#
-# For Grid search, first grid is used for initial search.  Subsequent grids are
-# shifted in x/y/z so that they are centered on the minimum misfit hypocenter
-# x/y/z of the previous grid if x/y/z < -1.0e20.
-#LOCGRID  21 21 51  -10.0 -10.0 -0.1  1.0 1.0 0.1   MISFIT  SAVE
-#LOCGRID  21 21 51  -10.0 -10.0 -0.1  1.0 1.0 0.1   PROB_DENSITY  SAVE
-LOCGRID  201 201 106  -100.0 -100.0 -5.0  1.0 1.0 1.0   PROB_DENSITY  SAVE
-#LOCGRID  3001 3001 301  -150.0 -150.0 0.0  0.1 0.1 0.1   PROB_DENSITY  SAVE
-# stagged grid for grid search (does not work with SC3!)
-#LOCGRID  51 51 21  -100.0 -100.0 0.0  4.0 4.0 1.0   MISFIT  NO_SAVE
-#LOCGRID  51 51 21  -1.0e30 -1.0e30 0.0  0.5 0.5 1.0   MISFIT  NO_SAVE
-#LOCGRID  81 81 81  -1.0e30 -1.0e30 0.0  0.25 0.25 0.25  PROB_DENSITY  SAVE
-
-# -----------------------------------------------------------------------------
-# phase statistics parameters
-# -----------------------------------------------------------------------------
-# LOCPHSTAT RMS_Max, NRdgs_Min, Gap_Max, P_ResMax, S_ResMax [optional]
-#       RMS_Max        : max hypocenter RMS to include in ave res
-#       NRdgs_Min      : min hypocenter num readings to include in ave res
-#       Gap_Max        : max hypocenter gap (deg) to include in ave res
-#       P_ResMax       : max abs(P res) to include in ave res
-#       S_ResMax       : max abs(S res) to include in ave res
-#       S_ResMax       : max abs(S res) to include in ave res
-#       Ell_Len3_Max   : max ellipsoid major semi-axis length to include in ave res
-#       Hypo_Depth_Min : min hypo depth to include in ave res
-#       Hypo_Depth_Max : max hypo depth to include in ave res
-LOCPHSTAT 9999.0 -1 9999.0 1.0 1.0 9999.9 -9999.9 9999.9
-
-# -----------------------------------------------------------------------------
-# take-off angles mode & minimum quality
-# -----------------------------------------------------------------------------
-# LOCANGLES angles_mode, min_quality [optional]
-#       angles_mode (ANGLES_YES, ANGLES_NO)
-#       min_quality : minimum quality to use take-off angles
-LOCANGLES ANGLES_YES 5
-
-# -----------------------------------------------------------------------------
-# magnitude calculation method
-# -----------------------------------------------------------------------------
-# LOCMAG magnitude_type <params> [optional]
-#       magnitude_type  (ML_HB (ML, Hutton Boore 1987)
-#                                       (MD_FMAG (duration mag, Lahr 1989)
-#       ML_HB  amp_fact n K
-#       MD_FMAG c1 c2 c3 c4 c5
-LOCMAG ML_HB 1.0 1.110 0.00189
-
-# -----------------------------------------------------------------------------
-# magnitude calculation component
-#       (for specifying component specific parameters, i.e. constants for magnitude calculation)
-# -----------------------------------------------------------------------------
-# LOCCMP name inst comp amp_fact sta_corr [optional, repeatable]
-#       name     : station identifier (after alias evaluation, without trailing underscore "_")
-#       name     : inst identifier (use '?' for don't care)
-#       name     : comp identifier (use '?' for don't care)
-#       amp_fact : amplitude factor, will be multiplied by amplitude
-#       sta_corr : mganitude correction
-#
-# example:
-#       LOCCMP CDR ? ? 1.0 0.0
-
-# -----------------------------------------------------------------------------
-# station name alias
-#       (for aliasing sta names, for date validation and for phase time delays)
-# -----------------------------------------------------------------------------
-# LOCALIAS name alias year mo day year mo day [optional, repeatable]
-#       name  : station identifier on input
-#       alias : station identifier for travel time grid on output
-#               NOTE: a trailing underscore "_" in aliases will only be
-#                         used for time grid identification, not for output
-#       year mo day : start date of validity (0 0 0 = no start date)
-#       year mo day : end date of validity  (9999 99 99 = no end date)
-#
-#   Note:
-#       Alias evaluation is applied recursively, beware of infinite recursion!
-#               P and S delays from last alias only are used!
-#       Example:
-#               LOCALIAS ART ART_       1996 05 29      1996 09 18   0.03  0.08
-
-# -----------------------------------------------------------------------------
-# exclude observations
-# -----------------------------------------------------------------------------
-# LOCEXCLUDE name phase [optional, repeatable]
-#       name  : station identifier after any alias
-#       phase : phase identifier on input
-
-# -----------------------------------------------------------------------------
-# phase time delays
-# -----------------------------------------------------------------------------
-# LOCDELAY name phase n_readings p_delay s_delay [optional, repeatable]
-#       name  : station identifier on control file statements
-#       phase : phase identifier
-#       n_readings : number of residuals used to calc delay
-#       delay : delay in seconds, subtracted from obs time
-# station identifiers are evaluated after aliases has been evaluated!
-# example:
-#       LOCDELAY NEGI P  1  0.04
-
-# -----------------------------------------------------------------------------
-# simple, vertical ray elevation correction
-# -----------------------------------------------------------------------------
-# LOCELEVCORR flag velP velS [optional]
-# LOCELEVCORR 1 4.0 2.312
-
-# -----------------------------------------------------------------------------
-# topographic mask for location search region
-# -----------------------------------------------------------------------------
-# LOCTOPO_SURFACE gmtGridFile flagDumpdecimation [optional]
-
-# -----------------------------------------------------------------------------
-# station distribution weighting
-# -----------------------------------------------------------------------------
-# LOCSTAWT flag cutoffDist [optional]
-
-# -----------------------------------------------------------------------------
-# fixed origin time
-# -----------------------------------------------------------------------------
-# LOCFIXOTIME year month day hour min sec [optional] (undocumented)
-#       year month day hour min
-#       sec
-LOCFIXOTIME 2022 01 17 17 56 02.09
-
-
-
-# =============================================================================
-# END of NLLoc control file statements
-# =============================================================================
-# =============================================================================
+210102 0231 44.00 51.6564N  +7.7395E    1.71   0.4      55  0.0 0.00  1.0  1.0
+HMESP0  1.00HMESS0  1.04HM02P0  1.00HM02S0  1.06HM03P0  1.01HM03S0  1.06
+HM12P0  1.20HM13P0  1.02HM13S0  1.09HM06P0  1.04HM16P0  1.05HM16S0  2.02
+HM11P0  1.60HM11S0  2.03HM14P0  1.05HM05P0  1.04WR15P0  1.04HM07P0  1.03
+HM29P0  2.20HM29S0  3.01WR17P0  2.02WR17S0  3.08KM04P0  2.03BK20P0  2.04
+BK18P0  2.80BK18S0  4.05BUG0S0 14.03
+
+210103 1321 54.00 51.6559N  +7.7429E    1.82   0.7      78  0.0 0.00  1.0  1.0
+HM02P0  1.05HM02S0  2.00HMESP0  1.05HMESS0  2.00HM03P0  1.04HM03S0  1.09
+HM12P0  1.04HM13P0  1.03HM13S0  1.04HM16S0  2.06HM06P0  2.00HM11P0  1.09
+HM14P0  2.00HM05P0  2.00WR15P0  2.02HM07P0  2.00WR17P0  2.09WR17S0  4.01
+BK20P0  3.00BK18P0  3.03BK18S0  4.09
+
+210104 0031 29.00 51.6316N  +7.7429E    1.36   0.2     141  0.0 0.00  1.0  1.0
+HM16P0  0.04HM16S0  0.08HM03P0  0.06HM03S0  1.01HM02P0  0.06HM02S0  1.02
+HM07P0  0.07HM13P0  0.08HM13S0  1.07HM05P0  0.09HMESP0  0.09HMESS0  1.09
+
+210106 0108 25.00 51.6527N  +7.7072E    1.48   0.4      54  0.0 0.00  1.0  1.0
+HM13P0  0.06HM13S0  1.00HM06P0  0.06HM06S0  1.00HMESP0  0.07HMESS0  1.02
+HM03P0  0.08HM03S0  1.03HM05P0  1.00HM02P0  1.00HM02S0  1.08WR15P0  1.01
+HM16P0  1.02HM16S0  2.01HM07P0  1.02HM14P0  1.03HM12P0  1.03WR17S1  2.05
+HM11S0  2.07BK20P0  1.07KM04P0  1.08BK18P0  1.09BK18S0  3.05HM29S0  3.08
+
+210107 1359 02.00 51.6430N  +7.7543E    1.28   0.6     223  0.0 0.00  1.0  1.0
+HM02P0  0.06HM02S0  0.09HM03P0  0.08HM03S0  1.04HM16P0  0.08HM16S0  1.03
+HM13P0  1.00HM13S0  1.07
+
+210108 0902 54.00 51.6443N  +7.7250E    1.29   0.6      76  0.0 0.00  1.0  1.0
+HM03S0  0.09HM13S0  1.02HM13P0  0.07HMESP0  0.08HMESS0  1.03HM02P0  0.08
+HM02S0  1.04HM06P0  0.09HM05P0  1.00HM16P0  1.00HM16S0  1.07HM07P0  1.01
+HM12P0  1.03BK18P0  2.01BK18S0  3.07
+
+210112 2256 26.00 51.6556N  +7.7425E    1.90   0.7     224  0.0 0.00  1.0  1.0
+HM02P0  0.06HM02S0  1.02HMESP0  0.06HMESS0  1.01HM03P0  0.07HM03S0  1.03
+HM13S0  1.06HM16P0  1.00
+
+210112 2334 55.00 51.6406N  +7.7480E    1.29   0.6     169  0.0 0.00  1.0  1.0
+HM02P0  1.02HM02S0  1.00HM03P0  1.03HM03S0  1.07HM16P0  1.03HM16S0  1.08
+HMESP0  1.05HMESS0  2.02HM13P0  1.05HM13S0  7.03HM11P0  2.01
+
+210114 0821 28.00 51.6443N  +7.7488E    1.68   1.7      65  0.0 0.00  1.0  1.0
+HM02S0  1.05HM02P0  1.01HM03S0  1.07HM03P0  1.02HM16S0  2.00HM16P0  1.03
+HMESS0  2.00HMESP0  1.04HM13S0  2.02HM13P0  1.05HM07P0  1.07HM05P0  1.07
+HM06P0  1.07HM11S0  3.00HM11P0  1.09HM14P0  2.01HM29S0  3.03HM29P0  2.01
+WR17S0  4.02WR17P0  2.06KM04P0  2.04BK20P0  2.06BK18S0  4.06BK18P0  3.00
+DR50P0  5.01SOR0P0  7.07SOR0S0  8.03BULIS0 10.00BUG0S0  9.09BUG0P0  6.06
+BKLBP0  8.05BPFIS0 10.09BPFIP0  9.02ENT0S0 17.00ENT0P0 10.01HES0S0 18.09
+KASTP0 13.06KASTS0 21.05IBBNP0 10.07
+
+210116 0156 36.00 51.6443N  +7.7233E    1.49   0.9      47  0.0 0.00  1.0  1.0
+HM12P0  1.09WR15P0  2.01HM14P0  2.02HM11P0  2.02HM11S0  3.07KM04P0  2.04
+WR17P0  2.06WR17S0  3.08BK20P0  2.05HM29P0  2.06HM29S0  4.04BK18P0  2.09
+BK18S0  4.08DR50P0  4.06
+
+210119 1351 30.00 51.6543N  +7.7335E    1.40   0.7      43  0.0 0.00  1.0  1.0
+HM07P0  1.03WR15P0  1.04HM29S0  3.00HM29P0  1.09WR17S0  3.03WR17P0  2.01
+KM04P0  2.02HMESP0  0.06HMESS0  1.00HM02P0  0.08HM02S0  1.03HM13P0  0.07
+HM13S0  1.05HM06P0  1.01HM12P0  1.01HM16P0  1.01HM16S0  1.09HM14P0  1.03
+HM11P0  1.03HM11S0  2.03
+
+210119 2135 56.00 51.6443N  +7.7539E    1.48   0.7     128  0.0 0.00  1.0  1.0
+HM02P0  0.09HM02S0  1.03HM16P0  1.02HM16S0  1.08HM12P0  1.03HMESP0  1.03
+HMESS0  2.00HM13P0  1.04HM13S0  2.00HM07P0  1.06HM05P0  1.08HM11P0  1.07
+HM11S1  3.00HM29P0  2.00HM29S0  3.00
+
+210120 0716 27.00 51.6538N  +7.7301E    1.49   0.7      44  0.0 0.00  1.0  1.0
+HM13S0  1.02HM02P0  0.06HM02S0  1.01HM06P0  0.08HM12P0  0.07HM06S0  0.08
+HM16P0  0.09HM16S0  1.09HM05P0  0.08HM14P0  1.01HM07P0  1.02WR15P0  1.02
+HM11S0  2.03WR17S0  2.07BK18S0  4.02
+
+210123 0757 46.10 51.6651N  +7.7340E    1.90   1.0      57  0.0 0.00  1.0  1.0
+HMESP0  1.02HMESS0  1.07HM02P0  1.05HM02S0  2.03HM03P0  1.05HM03S0  2.29
+HM12P0  1.05HM14P0  1.05HM13S0  2.29HM13P0  1.04HM06P0  2.03HM11S0  2.05
+WR15P0  1.07HM16S0  2.09HM16P0  1.09HM05P0  1.08HM07P0  1.07BK10P0  2.03
+WR17S0  3.08WR17P0  2.03HM29S0  3.05HM29P0  2.03BK08P0  2.08KM04P0  2.07
+BK18S0  4.08BK18P0  3.01
+
+210127 2346 22.00 51.6406N  +7.7454E    1.46   0.7     112  0.0 0.00  1.0  1.0
+HM02P0  1.00HM02S0  1.04HM03P0  1.00HM03S0  1.05HM16P0  1.01HM16S0  1.06
+HMESS0  1.09HMESP0  1.03HM13P0  1.03HM13S0  1.09HM12P0  1.04HM07P0  1.05
+HM05P0  1.05HM11P0  1.09HM11S0  3.01HM14P0  2.00HM29S0  3.04HM29P0  2.00
+BK10P0  2.01WR15P0  2.02BK08P0  2.01BK20P0  2.04WR17P0  2.04WR17S0  4.00
+DR50P0  4.04
+
+210127 1634 42.00 51.6511N  +7.7191E    1.15   0.6      61  0.0 0.00  1.0  1.0
+HM13P0  0.05HM13S0  0.08HMESP0  0.05HMESS0  0.08HM03P0  0.05HM03S0  0.09
+HM06P0  0.06HM02S0  1.04HM02P0  0.08HM05P0  0.08HM05S0  1.06HM16S0  1.08
+HM45P0  1.01HM45S0  2.00
+
+210128 1858 16.00 51.6493N  +7.7305E    1.84   1.5      37  0.0 0.00  1.0  1.0
+HM16S0  2.04HM16P0  1.08HM05P0  1.08HM12P0  1.08HM07P0  2.00HM14P0  2.02
+WR15P0  2.02HM11S0  3.02HM11P0  2.01BK10P0  2.03BK08P0  2.05WR17P0  2.04
+WR17S0  4.00KM04P0  2.05HM29P0  2.05HM29S0  4.02BK18P0  3.00BK18S0  6.07
+SOR0P1  8.02SOR0S2 12.09BULIS1 14.08BULIP1 10.04BUG0P1 10.03BUG0S1 14.08
+BKLBP1  8.02BPFIS2 15.02BPFIP2  8.09ENT0P2 10.02ENT0S3 16.08HES0S3 18.03
+HES0P2  7.00ZERLP1 12.01ZERLS2 30.05ZER1P1 12.07
+
+210129 1939 39.00 51.6543N  +7.7318E    1.58   0.9      43  0.0 0.00  1.0  1.0
+HM05P0  1.01HM14P0  1.02WR15P0  1.03HM07P0  1.03HM11S0  2.03HM11P0  1.03
+BK10P0  1.06WR17P0  1.06WR17S0  3.00HM29S0  3.00BK08P0  1.09KM04P0  1.09
+BK20P0  2.01BK18P0  2.03BK18S0  3.09
+
+210129 0939 16.00 51.6459N  +7.7284E    1.52   1.6      66  0.0 0.00  1.0  1.0
+BK10P0  1.09HM11P0  1.08HM11S0  3.00BK08P0  2.00KM04P0  2.01BPFIS1 14.07
+WR17P0  2.00WR17S0  4.00HM29P0  2.02HM29S0  3.05BK20P0  2.03BK18P0  2.04
+BK18S0  4.01DR50P0  4.02SOR0P1  7.07BULIS0 13.07BUG0S2 13.07BUG0P1  8.00
+
+210131 0518 58.00 51.6437N  +7.7480E    1.68   1.4      53  0.0 0.00  1.0  1.0
+HM02P0  1.05HM02S0  1.01HM03P0  1.02HM03S0  1.07HM16P0  1.04HM16S0  1.09
+HMESP0  1.04HMESS0  2.01HM12P0  1.05HM13P0  1.05HM13S0  2.02HM07P0  1.07
+HM05P0  1.07HM06P0  1.08HM11S0  3.01HM11P0  1.09HM14P0  2.01HM29S0  3.04
+HM29P0  2.01WR15P0  2.02BK10P0  2.03KM04P0  2.03WR17P0  2.06BK20P0  2.07
+BK18P0  3.01BK18S0  4.02DR50P0  4.07SOR0P1  7.08SOR0S2 12.09BULIP1  8.02
+BULIS0 14.03BUG0P1  8.07BUG0S2 14.00BKLBP0  8.06BPFIP1  8.09BPFIS2 15.01
+
+210201 2246 52.00 51.6548N  +7.7327E    1.30   0.5     176  0.0 0.00  1.0  1.0
+HMESP0  1.00HMESS0  1.03HM03S0  1.06HM03P0  1.01HM02P0  1.02HM02S0  1.07
+HM13P0  1.02HM13S0  1.09
+
+210202 2322 46.00 51.6395N  +7.7310E    1.43   1.1      73  0.0 0.00  1.0  1.0
+HM03P0  1.01HM03S0  1.05HM13P0  1.04HM13S0  1.09HM02P0  1.04HM02S0  1.09
+HM16P0  1.04HM16S0  1.09HMESP0  1.04HMESS0  2.00HM05P0  1.05HM07P0  1.06
+HM06P0  1.06HM12P0  1.08BK10P0  2.01WR15P0  2.01KM04P0  2.02HM14P0  2.02
+HM11P0  2.02HM11S0  3.05BK20P0  2.05HM29P0  2.04HM29S0  4.00WR17P0  2.06
+WR17S0  4.03BK18S0  4.05BK18P0  2.08DR50P1  4.05SOR0S1 12.05BULIP1  7.05
+BULIS1  8.02BUG0P1  8.01
+
+210206 1000 33.00 51.6735N  +7.7595E    1.43   0.6      77  0.0 0.00  1.0  1.0
+HM11P0  1.00HM11S0  1.50HM12P0  1.01HMESP0  1.04HMESS0  2.01HM02S0  2.03
+HM02P0  1.04HM03S0  2.05HM03P0  1.06HM13P0  1.07HM13S0  2.07HM29P0  1.07
+HM29S0  2.08HM06P0  1.09HM06S0  3.00HM16P0  1.08HM16S0  3.00WR17S0  4.01
+
+210209 0115 31.00 51.6453N  +7.7488E    1.42   0.6     146  0.0 0.00  1.0  1.0
+HM03S0  1.09HM16P0  1.05HM16S0  2.02HMESP0  1.05HMESS0  2.02HM13P0  1.07
+HM13S0  2.03 
+
+210210 1251 53.00 51.6481N  +7.7286E    1.59   1.7      42  0.0 0.00  1.0  1.0
+HM03P0  1.02HM03S0  1.05HMESP0  1.02HMESS0  1.07HM13P0  1.03SOR0P1  7.09
+HM13S0  1.03HM02S0  1.09HM02P0  1.03HM06P0  1.05HM16P0  1.06BULIS1 14.03
+HM16S0  2.03HM05P0  1.06HM12P0  1.07HM07P0  1.08WR15P0  2.00BULIP0  1.01
+HM14P0  2.00BK10P0  2.00HM11S0  3.01HM11P0  2.02BK08P0  2.03KM04P0  2.03
+WR17P0  2.04WR17S0  3.09HM29S0  3.07HM29P0  2.04BK20P0  2.05BK18P0  2.08
+BK18S0  2.04
+
+210211 1725 45.00 51.6648N  +7.7284E    1.98   1.1      73  0.0 0.00  1.0  1.0
+HMESP0  1.03HMESS0  1.08HM03P0  1.06HM03S0  2.04HM02P0  1.07HM02S0  2.04
+HM14P0  1.07HM12P0  1.07WR15P0  1.07HM11P0  1.09HM11S0  2.07HM05P0  2.01
+HM16P0  2.01HM16S0  3.01HM07P0  2.00WR17P0  2.03WR17S0  3.07HM29S0  3.08
+HM29P0  2.04BK20P0  2.09BK18P0  3.01BK18S0  9.09BULIS1  8.04BKLBP1  8.04
+
+210213 0311 00.00 51.6440N  +7.7526E    1.72   1.3      67  0.0 0.00  1.0  1.0
+HM02P0  0.09HM02S0  1.03HM03P0  1.00HM03S0  1.06HM16P0  1.02HM16S0  1.08
+HM12P0  1.02HMESS0  2.00HMESP0  1.02HM13S0  2.01HM13P0  1.03HM07P0  1.05
+HM05P0  1.06HM11S0  2.08HM11P0  1.08HM29S0  3.00HM29P0  1.08WR15P0  2.00
+BK10P0  2.01WR17S0  4.02WR17P0  2.05BK20P0  2.05BK18P0  2.09BK18S0  4.07
+DR50P0  4.06SOR0S1 12.09SOR0P0  7.05BULIS1 14.00BUG0P1  8.05
+
+210214 0458 12.00 51.6459N  +7.7514E    1.46   0.6      54  0.0 0.00  1.0  1.0
+HM02P0  0.09HM02S0  1.03HM03P0  1.01HM03S0  1.07HM16P0  1.03HM16S0  1.08
+HM12P0  1.03HM13S0  2.01HM13P0  1.04HM05P0  1.07HM11P0  1.08HM11S0  2.08
+HM14P0  1.09HM29P0  1.09HM29S0  3.02WR15P0  2.00KM04P0  2.02HMESP0  1.03
+HMESS0  1.09
+
+210215 2344 06.00 51.6572N  +7.7416E    1.68   0.6     162  0.0 0.00  1.0  1.0
+HMESP0  0.06HMESS0  1.01HM02P0  0.07HM02S0  1.03HM03P0  0.07HM03S0  1.03
+HM12P0  0.08HM13P0  0.09HM13S0  1.06
+
+210214 0413 21.00 51.6345N  +7.7220E    1.40   1.4      54  0.0 0.00  1.0  1.0
+HM03P0  8.00HM13P0  3.00HM13S0  8.00HM16P0  7.00HM16S0  8.00HM07P0  4.00
+HM07S0  4.00HM02P0  5.00HM02S0  2.00HM06P0  6.00HM06S0  5.00HMESP0  5.00
+HMESS0  3.00BK10P0 10.00BK08P0  2.00HM45S0  4.00KM04P0  2.00WR15P0  9.00
+BK20P0  4.00HM14P0  5.00HM11P0  5.00HM11S0 10.00WR17P0  6.00WR17S0  5.00
+BK18S0  4.00HM29P0  7.00HM29S0  4.00BK41P0 11.00BK41S0  9.00KM35P0  8.00
+KM35S0  7.00
+
+210310 2042 52.00 51.6524N  +7.7373E    1.40   0.7     173  0.0 0.00  1.0  1.0
+HMESP0  0.07HMESS0  1.02HM03P0  0.08HM03S0  1.02HM02P0  0.08HM02S0  1.03
+HM13S0  1.06
+
+210321 1328 14.00 51.6335N  +7.7373E    1.51   0.9      79  0.0 0.00  1.0  1.0
+HM13P0  1.04HM13S0  2.01HMESP0  1.05HMESS0  2.03HM12P0  1.08BK10P0  2.02
+HM11P0  2.02HM11S0  3.05HM14P0  2.02HM29P0  2.04HM16P0  1.02HM16S0  1.06
+HM03P0  1.02HM03S0  1.07HM02P0  1.03HM02S0  1.09HM07P0  1.04
+
+210324 1703 32.29 51.6585N  +7.7471E    2.0    1.6      1   0.0 0.00  1.0  1.0
+HM11P0  1.02HM14P0  1.04WR17P0  2.34BK20P0  2.30DR50P0  4.34SOR0P0  7.45
+BULIP0  9.05HES0P0 11.20HM02P0  0.62HMESP0  1.08HM12P0  1.14HM03P0  1.18
+HM13P0  1.00WR15P0  1.30HM29P0  1.54BK10P0  2.52KASTP0 13.44KASTS0 22.50
+HMESS0  1.25HM02S0  1.22HM11S0  2.26HM13S0  1.80HM16S0  2.02HM29S0  2.61
+WR17S0  3.43BK18S0  4.41SOR0S0 12.72BULIS0 14.65BUG0S0 14.36ENT0S0 16.39
+
+210326 1939 36.00 51.6495N  +7.7582E    1.45   1.0     168  0.0 0.00  1.0  1.0
+HM12P0  1.00HM03S0  1.06HM03P0  1.00HMESP0  1.01HMESS0  1.08HM16S0  1.08
+HM13P0  1.03HM13S0  2.02HM11S0  2.04HM11P0  1.04HM07P0  1.05HM14P0  1.06
+WR15P0  1.09BK10P0  2.01
+
+210331 1252 02.00 51.6460N  +7.7663E    1.65   0.6     206  0.0 0.00  1.0  1.0
+HM02P0  0.05HM02S0  0.09HM12P0  0.06HM03P0  0.08HM03S0  1.04HM16P0  0.08
+HM16S0  1.06HMESP0  0.09HMESS0  1.08HM13P0  1.02HM13S0  1.09
+
+210503 1448 25.59 51.6124N  +7.6371E    3.0    1.5      78  0.0 0.00  1.0  1.0
+BK18P0  1.01BK18S0  1.41HM13S0  3.02HM16S0  3.57WR17P0  4.36WR17S0  2.33
+HMESP0  2.11HMESS0  4.03HM02S0  4.38HM29S0  6.05BULIP0  6.32BULIS0 11.38
+
+210521 1934 14.38 51.6382N  +7.7313E    1.38   1.3      1   0.0 0.00  1.0  1.0
+HM03P0  2.32HM02P0  2.20HM16P0  2.27HM13P0  2.24HMESP0  2.18HM05P0  2.15
+HM07P0  2.06HM12P0  1.02HM06P0  1.20HM11P0  1.25HM14P0  1.25BK10P0  1.35
+WR15P0  0.25BK08P0  0.24KM04P0  0.19HM29P0  1.17HM03S0  1.72HM02S0  1.47
+HM16S0  1.55HM13S0  1.36HMESS0  1.30HM05S0  2.13HM07S0  1.02HM11S0  1.37
+HM14S0  1.33HM29S0  1.11
+
+
+210615 1256 18.27 51.6316N  +7.7284E    1.18   1.0      91  0.0 0.00  1.0  1.0
+HM16P0  1.01HM16S0  1.05HM03P0  1.01HM03S0  1.05HM07P0  1.02HM05P0  1.02
+HM13P0  1.02HM13S0  1.08HM02P0  1.03HM02S0  2.00HMESP0  1.05HMESS0  2.02
+HM06P0  1.05HM12P0  1.07KM04P0  1.08BK10P0  1.09
+
+210615 1748 47.00 51.6348N  +7.7242E    1.30   1.2      75  0.0 0.00  1.0  1.0
+HM03S0  1.04HM03P0  1.00HM13P0  1.01HM13S0  1.06HM05P0  1.01HM16P0  1.01
+HM16S0  1.06HM07P0  1.02HM02P0  1.02HM02S0  1.09HMESP0  1.03HMESS0  2.00
+HM06P0  1.03BK10P0  1.07HM12P0  1.06BK08P0  1.08KM04P0  1.08BK20P0  2.02
+HM14P0  2.01HM11P0  2.04HM11S0  3.06BK18P0  2.07BK18S0  3.08
+
+210615 1641 11.27 51.3008N  +7.7671E    1.8    0.9     135  0.0 0.00  1.0  1.0
+IBBSP0  1.19IBBNP0  0.40IBBNS0  1.15IBBEP0  1.02IBBES0  1.17KASTP0 23.18
+BUG0S0 12.19BKLBP0  6.39BPFIP0  7.18BPFIS0 12.37SOR0P0  8.01SOR0S0 12.45
+ENT0S0 14.31BK20P0  1.24HM07P0  2.14HM13P0  2.19HM16P0  2.19WR15P0  2.19
+HM02P0  2.33HM14P0  2.62DR50P0  2.92BUG0P0  6.15
+
+210823 0145 18.00 51.6321N  +7.7335E    1.17   1.3      83  0.0 0.00  1.0  1.0
+KM35P0  1.04KM35S0  2.05WR38P0  2.02WR38S0  3.01HM13P0  1.09HM13S0  3.06
+BK18P0  0.07BK18S0  1.01BK20P0  1.00BK41P0  1.00BK41S0  1.07HM16P0  0.09
+HM16S0  1.02HM03P0  0.09HM03S0  1.03
+
+210910 1402 15.10 51.6343N  +7.7361E    1.60   1.30     1   0.0 0.00  1.0  1.0
+HM16P0  0.55HM03P0  0.56HM12P0  0.46HMESP0  1.03HM13P0  1.18BK08P0  1.41
+WR17P0  2.33KM35P0  2.25BK41P0  2.39WR38P0  3.29DR50P0  3.44BUG0P0  7.03
+BKLBP0  7.29BPFIP0  8.25ENT0P0  9.02KASTP0 13.32HM16S0  1.36HM03S0  1.01
+HMESS0  1.59HM13S0  1.39WR17S0  3.52KM46S0  5.12BK41S0  5.65WR38S0  5.32
+SOR0S0 11.54BUG0S0 13.37BPFIS0 14.54KASTS0 21.04
+
+210919 1216 17.56 51.5657N  +6.8678E    1.9    1.1     101  0.0 0.00  1.0  1.0
+ZER1P1  1.03ZERLP0  1.23ZERLS0  2.44ZER3P1  1.34ZER1S1  2.75BAVNP1  5.06
+HES0P0  5.14HES0S0  9.19BULIP0  6.21BULIS0  6.21BPFIP0  7.16BPFIS0 10.03
+BUG0P0 10.27BUG0S0 10.32BKLBP0  6.33BTEZP0  7.03WR38S0 16.22BK41P0  9.42
+BK41S0  9.42ENT0P0 16.34ENT0S0 10.06KM04P0 10.37IBBNS0 32.37IBBNP0 18.46
+KASTP0 20.17KASTS0 33.32ZER3S0  3.04BAVNS0  9.32BK20P0 10.38
+
+210929 0321 52.02 51.6321N  +7.6361E    1.7    1.6      65  0.0 0.00  1.0  1.0
+HM16P0  0.05HM16S0  0.09HM03P0  0.06HM03S0  1.01HM07P0  0.08HM02S0  1.03
+HM02P0  0.07HM13P0  0.08HM13S0  0.08HM05P0  0.08HMESP0  0.09HMESS0  1.07
+HM06P0  1.01HM12P1  0.03KM04P0  1.04BK08P0  1.04BK10P0  1.05HM11P0  1.06
+WR15P0  1.07HM14P0  1.07HM29P0  1.07HM29S0  3.01WR17P0  2.00BULIS2 11.00
+WR17S0  3.06BK18P0  2.01BK18S0  3.06BK41P0  2.04BK41S0  4.02BK31S0  2.05
+BK42P0  2.06BK42S0  4.04LN43P0  2.08LN43S1  6.00DR50P0  3.08SOR0P1  6.09
+SOR0S1 11.06BULIP1  7.03
+
+210811 2011 43.11 51.6134N  +7.5980E    2.4    1.1     101  0.0 0.00  1.0  1.0
+LN43P0  1.53BK41P1  1.33BK41S1 11.06BK20P1  1.35BK10P1  2.18HM07P1  2.24
+HM13P1  1.08BK18S1  1.63LN43S2 10.24KM35P1  1.33BK08P2  2.04WR38S2  2.58
+HM05P1  2.01KM04P2  0.08WR17S2  4.09HM13S1  2.48HM03P1  1.56HMESS2  4.32
+HMESP0  2.00HM16P2  3.23WR15P2  6.49BUG0P2  6.48BKLBP2  7.25
+
+211102 2133 39.00 51.6385N  +7.7395E    1.51   1.3      48  0.0 0.00  1.0  1.0
+HM03P0  1.00HM03S0  1.04HM16P0  1.01HM16S0  1.05HM02P0  1.00KASTS3 60.01
+HM02S0  1.05HM13P0  1.02HM13S0  1.08HMESP0  1.02HMESS0  1.09HM07P0  1.04
+HM05P0  1.04HM45P0  0.00HM12P0  1.05HM45S0  2.04HM06P0  1.05BKLBP1  8.00
+HM11S2  3.07BK10P0  2.00KM04P0  2.00KASTP0 14.05BK08P0  2.00HM14P0  2.00
+WR15P0  2.00HM29P0  2.00HM29S0  3.05BK20P0  2.03WR17P0  2.05WR17S0  4.00
+BK18P0  2.07BK18S1  4.06BK09P1  2.08BK41P1  3.00BK41S0  4.09KM35P1  2.08
+BK31S2  6.00BK42P1  3.01BK42S1  6.03WR38P1  3.04WR38S1  5.60LN43S2  7.05
+LN39P0  4.02LN39S1  7.08SOR0S1 11.01BUG0P1  7.09BUG0S1 12.00
+
+211024 1233 12.00 51.6464N  +7.7021E    1.67   1.6      37  0.0 0.00  1.0  1.0
+HM06P0  0.70HM05P0  1.00HM03S0  3.05HMESP0  2.00HMESS0  1.06BK10P0  1.02
+HM07P0  1.30HM02P0  1.02HM02S0  2.01HM16P0  2.03HM16S0  3.02WR15P0  1.04
+WR17P0  1.60WR17S0  2.04HM45P0  1.06HM45S1  2.09HM12P0  1.06HM14P0  1.06
+BK20P0  1.80KM04P0  1.08HM11P0  1.08HM11S1  3.05BK18P0  2.00BK41S0  3.08
+BK09P0  2.20BK31P0  2.04BK31S0  4.01HM29P0  2.04HM29S1  3.09BK42P0  2.05
+KM35P0  2.40KM35S0  4.06WR38P0  2.06WR38S0  4.05LN43P0  2.09LN43S1  5.03
+DR50P0  4.00BTEZP1  7.03BULIP1  7.04BULIS2 12.05BUG0P1  7.05BUG0S2 13.01
+BKLBP1  7.05SOR0P1  7.06SOR0S2 12.05BAVNP0  9.02BAVNS2 14.03ENT0P2  9.02
+ENT0S3 15.07HES0P2 10.00HES0S3 17.09ZERLP1 11.02ZERLS2 18.09KASTP1 14.00
+KASTS3 22.01
+
+211030 0624 44.00 51.6074N  +7.6078E    1.79   0.8     133  0.0 0.00  1.0  1.0
+BK31P0  1.00BK31S0  1.04BK09P0  1.01BK18P1  1.03BK18S0  1.07BK42P0  1.01
+BK42S0  1.07BK41P0  1.03BK41S0  7.01KM35P0  1.04KM35S0  2.03BK20P0  1.04
+BK10P0  1.08WR38P0  2.00WR38S0  3.06KM04P0  2.02HM13S0  4.01WR17S1  4.06
+
+211104 2307 43.00 51.6321N  +7.7352E    1.67   1.4     183  0.0 0.00  1.0  1.0
+HM13P0  1.02HM13S1  1.06HM05P0  0.90HMESP0  1.00HMESS0  1.70BK31S1  6.30
+HM06P0  1.01HM12P0  1.02HM45P0  1.20HM45S0  2.20KM04P0  1.40BK08P0  1.50
+BK10P0  1.05HM11P0  1.07HM11S0  3.10WR15P0  1.70HM14P0  1.70BK20P0  1.80
+HM29P0  1.08HM29S0  5.06WR17P0  4.10WR17S0  5.70BK18P0  4.10BK18S0  5.70
+BK09P0  4.02KM35P0  4.03BK41P0  4.50BK41S0  6.30BK31P0  4.50
+
+211107 2222 16.00 51.6469N  +7.7641E    1.61   1.1      86  0.0 0.00  1.0  1.0
+HM02P0  1.03HM02S0  1.07HM45S1  1.01HM12P0  1.05HM45P0  1.50HM03P0  2.00
+HM03S0  2.03HM16S0  2.03HM16P0  1.07HMESP1  1.08HMESS1  2.06HM13P0  2.00
+HM13S0  2.08HM11P0  2.00HM29P0  2.00HM29S0  3.00HM05P0  2.10HM06P0  2.00
+HM14P0  2.02WR15P0  2.05BK10P1  2.06KM04P1  2.06WR17P0  3.00WR17S1  5.00
+BK20P0  3.01BK18P0  3.05BK18S1  6.03WR38S1  6.03WR38P0  4.10SOR0P0  8.00
+BULIS1 14.04BUG0S0 14.05
+
+211109 0354 25.00 51.6337N  +7.7310E    1.67   1.7      59  0.0 0.00  1.0  1.0
+HM03P0  0.07HM03S0  1.01HM16P0  0.07HM16S0  1.02HM13P0  0.08HM13S0  1.05
+HM07P0  0.09HM05P0  0.09HM02P0  0.09HM02S0  1.05HMESP0  1.00HMESS0  1.07
+HM45P0  1.03HM45S0  2.04HM12P0  1.03BK08P0  1.06KM04P0  1.05BK10P0  1.06
+WR15P0  1.08HM11P0  1.08HM11S0  3.04HM14P0  1.08BK20P0  1.09HM29P0  1.09
+HM29S1  3.08WR17P0  2.01WR17S0  3.06BK09P1  2.03KASTS3 21.05BK41P0  2.03
+BK41S1  2.05KM35P1  2.04KM35S1  4.06BK31P1  2.06BK31S2  5.07BK42P0  2.07
+BK42S1  5.08WR38P0  2.07WR38S1  5.01LN43P1  3.00LN39P0  3.06LN39S2  7.04
+DR50P0  3.09SOR0P0  7.04SOR0S2 11.09BULIP1  7.07BULIS1 13.01BUG0P1  7.04
+BUG0S2 13.01BKLBP1  7.04BPFIP1  8.01BPFIS2 14.01ENT0P2  8.09ENT0S3 15.03
+HES0P2  9.09HES0S3 13.09ZERLS1 19.03
+
+211113 1410 12.00 51.6775N  +7.7642E    1.52   0.4      87  0.0 0.00  1.0  1.0
+HM45S0  1.07HM14P0  1.02HMESP0  1.05HMESS1  2.00HM02P0  1.05HM02S0  2.03
+HM29P0  1.06HM29S0  2.08WR15P0  1.08HM13S0  1.00HM13P0  1.09BK10P0  2.05
+HM16P0  1.09HM16S0  3.01HM07P0  2.04WR17S0  4.02
+
+211122 1044 41.00 51.6443N  +7.7471E    1.46   0.9     112  0.0 0.00  1.0  1.0
+HM02P1  0.09HM02S0  1.02HM03P0  1.00HM03S0  1.04HM16P0  1.01HM16S0  1.07
+HMESP0  1.08HMESS0  1.07HM13P0  1.03HM13S0  1.09HM45P0  1.03HM45S0  2.00
+HM05P0  1.05HM07P0  1.05HM06P0  1.04HM11P0  1.07HM11S0  2.07HM14P0  2.08
+HM29P0  1.08HM29S0  3.02WR15P0  1.09BK10P0  2.00KM04P0  2.01BK08P0  2.01
+
+211201 0351 43.00 51.6269N  +7.7146E    1.51   1.1      77  0.0 0.00  1.0  1.0
+BK41P0  1.02BK41S0  1.06BK18P0  1.03BK18S0  1.03BK31P0  1.04BK31S0  2.00
+BK42P0  1.05BK42S0  2.01BK09P0  1.07BK20P0  1.08BK10P0  1.08WR38P0  2.00
+WR38S0  2.00KM35P0  2.00KM35S0  2.06HM05P0  2.03WR17P0  2.04WR17S0  4.01
+HMESP0  2.08HMESS0  4.06HM45P0  3.07HM45S0  7.06HM11S1  6.03HM29S1  6.09
+BULIS0 12.01BUG0S2 11.09BUG0P0  7.00BKLBP1  7.00BPFIP1  7.08BPFIS2 13.00
+SOR0S2 13.07HM13P0  2.05HM13S0  4.00HM07P0  2.06HM03P0  2.09HM03S0  4.04
+WR15P0  2.08
+
+211213 1221 47.00 51.6321N  +7.7327E    1.23   1.3      56  0.0 0.00  1.0  1.0
+BK08P0  2.02BK10P0  2.03WR15P0  3.07BK20P0  2.05HM11S1  4.00HM14P0  2.05
+HM29P1  2.06HM29S1  4.04WR17P1  2.07WR17S1  4.03BK18P1  2.09BK18S0  4.07
+BK09P1  3.00KM35S1  5.06BK41P1  3.02BK41S1  5.08LN43S2  6.06WR38P2  3.07
+WR38S2 12.06LN39S3  8.01SOR0S3 12.06
+
+211217 0406  0.00 51.6759N  +7.7557E    1.79   0.8      94  0.0 0.00  1.0  1.0
+HMESP0  2.02HMESS0  2.08HM02P0  1.03HM02S0  2.02HM03P0  1.50BK42S0  6.01
+HM03S0  2.04WR15P0  1.07HM13P0  1.07HM13S0  2.07HM29S0  2.80HM06P0  1.07
+HM16P0  1.08HM16S0  3.00HM07P0  2.01WR17P0  2.02WR17S0  3.90BK20P0  2.09
+BK18S0  5.05BK18P0  3.01BK41S0  5.04WR38S0  6.00WR38P0  3.06
+
+211219 1942 59.00 51.6448N  +7.7505E    1.64   0.9     119  0.0 0.00  1.0  1.0
+HM16S0  0.06HMESP0  0.00HMESS0  0.07HM13P0  0.01HM13S0  0.08HM07P0  0.00
+HM06P0  0.04HM11P0  0.05HM11S0  1.06HM14P0  0.07HM29P0  0.07HM29S0  1.08
+WR15P0  0.08BK10P0  0.09KM04P1  0.09WR17P0  1.03WR17S0  3.00BK20P0  1.03
+BK41P0  1.09BK41S0  3.09KM35S0  3.08BK31P0  1.08BK31S1  4.01BK42P0  2.02
+BK42S1  4.03BUG0S2 12.09
+
+211219 1756 10.00 51.6511N  +7.7641E    1.48   0.6     119  0.0 0.00  1.0  1.0
+HMESS0  1.08HM16S0  1.09HM11P0  1.02HM11S0  2.02HM13P0  2.02HM29P0  1.04
+HM29S0  2.04HM06P0  1.05HM07P0  1.05WR15P0  1.08BK10P0  2.01WR17S0  4.02
+WR17P0  4.02
+
+211213 1951 28.00 51.6324N  +7.7339E    1.60   1.5      61  0.0 0.00  1.0  1.0
+HM16P0  5.00HM16S0  8.00HM03P0  5.00HM03S0  9.00HM07P0  6.00HM02P0  6.00
+HM02S0  4.00HM13P0  7.00HM13S0  4.00HMESP0  8.00HMESS0  7.00HM06P0 10.00
+HM45P0  4.00HM45S0  5.00KM04P0  4.00BK08P0  4.00BK10P0  5.00WR15P0  9.00
+BK20P0  7.00HM11S0  4.00HM14P0  7.00HM29P0  8.00HM29S0  8.00WR17P0  9.00
+WR17S0  7.00BK18P0 11.00BK18S0 11.00BK09P0  3.00KM35S0 11.00BK41P0  5.00
+BK41S0 11.00BK31P0  6.00BK31S0 13.00BK42P0  7.00BK42S0 11.00LN43S0 12.00
+WR38P0 10.00
+
+211221 0940 16.00 51.6258N  +7.6129E    1.73   1.4      75  0.0 0.00  1.0  1.0
+KM35S2  3.04BK08P0  1.08HM05P0  2.01HM06P0  1.09WR17P0  2.01WR17S1  3.09
+HM13P0  2.03HM13S0  3.08KM04P0  2.02HM07P0  2.03HM03P0  2.05HM03S0  4.02
+WR15P0  2.05HMESS1  4.03HM16P0  2.08HM16S0  4.04HM02P0  2.09HM02S0  4.07
+HM14P0  3.02HM45S0  5.05HM45P0  3.05HM11S0  6.00HM11P0  3.03BUG0P0  6.06
+BUG0S0  7.04BKLBP0  6.05BPFIP0  6.08SOR0S0 12.03
+
+211230 1738 44.00 51.6546N  +7.7340E    1.34   0.6      57  0.0 0.00  1.0  1.0
+HMESP0  1.00HMESS0  1.03HM03P0  1.01HM03S0  1.06HM02P0  1.01HM02S0  1.06
+HM13P0  1.02HM13S0  1.08HM45P0  1.04HM45S0  2.01HM06P0  1.04HM16P0  1.05
+HM16S0  2.02HM14P0  1.06HM11S0  2.07HM11P0  1.06HM07P0  1.06HM29S0  3.06
+WR17S0  3.06BK18S0  6.08BK18P0  3.01BK41S0  5.04
+
+9999
